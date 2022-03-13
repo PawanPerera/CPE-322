@@ -117,9 +117,48 @@ Copy index.html
 
 
 
-Start Django REST project mycpu
+4) Start Django REST project mycpu
 
 Start Django project
+
+![image](https://user-images.githubusercontent.com/70520853/158084294-9fb6b263-6083-44d2-955d-6c7df6036a26.png)
+
+
+
+Start Django app
+
+![image](https://user-images.githubusercontent.com/70520853/158084342-156bb6a5-659e-4555-936c-26f3401be263.png)
+
+
+
+Edit settings.py
+
+![image](https://user-images.githubusercontent.com/70520853/158084491-f6ebfe17-2bea-4813-b7e1-3cad6e374100.png)
+
+
+
+Copy urls.py
+
+![image](https://user-images.githubusercontent.com/70520853/158084551-785d8edc-be22-4edb-aa82-cd6e7d98741a.png)
+
+
+
+Copy admin.py, models.py, views.py, and serializers.py
+
+![image](https://user-images.githubusercontent.com/70520853/158084593-9cd1537f-3b87-4335-ae65-ae39dfbee35d.png)
+
+
+
+Change the default password 'admin' in views.py
+
+![image](https://user-images.githubusercontent.com/70520853/158084684-03196972-fa8f-4ddc-97cd-a3c1b2322688.png)
+
+
+
+Copy index.html
+
+![image](https://user-images.githubusercontent.com/70520853/158084723-a3b5d4bf-169f-4874-a841-317674e4b4ce.png)
+
 
 
 
